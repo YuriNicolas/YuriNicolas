@@ -19,7 +19,7 @@ Meu objetivo é fazer a transição de **suporte técnico para desenvolvimento d
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projeto em destaque
 
 ### 🔎 Job Hunter Pessoal
 
@@ -30,24 +30,6 @@ Aplicação desenvolvida em Python para auxiliar na análise de currículos e va
 > Projeto em evolução contínua, desenvolvido para resolver um problema real do meu próprio processo de busca profissional.
 
 [Ver repositório →](https://github.com/YuriNicolas/job-hunter)
-
----
-
-### 💰 Sistema Financeiro
-
-Aplicação web para gerenciamento de receitas e despesas, desenvolvida com foco em fundamentos de backend, banco de dados e operações CRUD.
-
-**Tecnologias:** Python · Flask · SQLite · HTML · CSS
-
----
-
-### 📚 Portfólio acadêmico
-
-Repositório com projetos e atividades desenvolvidos durante minha formação em Desenvolvimento de Sistemas, registrando minha evolução técnica e prática.
-
-**Tecnologias:** HTML · CSS · JavaScript · fundamentos de desenvolvimento web
-
-[Explorar repositório →](https://github.com/YuriNicolas/PORTIFOLIO)
 
 ---
 
