@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="620" alt="Yuri Nicolas — perfil e atividade no GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuriNicolas&theme=github_dark">
+<img width="620" alt="Yuri Nicolas — evolução de atividade no GitHub" src="https://github-readme-activity-graph.vercel.app/graph?username=YuriNicolas&theme=github-dark&hide_border=true&area=true&custom_title=Evolução%20no%20GitHub">
 
 # Yuri Nicolas
 
@@ -88,13 +88,21 @@ Repositório com **projetos e atividades acadêmicas**, registrando minha evolu�
 </tbody>
 </table>
 
-## Open-source signal
+## GitHub Stats
 
 <div align="center">
 
 <img width="620" alt="Yuri Nicolas — estatísticas do GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YuriNicolas&theme=github_dark">
 
 <img width="620" alt="Yuri Nicolas — sequência de contribuições" src="https://streak-stats.demolab.com?user=YuriNicolas&theme=github-dark&hide_border=true">
+
+</div>
+
+## Atividade no GitHub
+
+<div align="center">
+
+<img width="620" alt="Yuri Nicolas — histórico de contribuições" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuriNicolas&theme=github_dark">
 
 </div>
 
