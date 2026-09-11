@@ -1,126 +1,432 @@
 <div align="center">
 
-<img width="620" alt="Yuri Nicolas — evolução de atividade no GitHub" src="https://github-readme-activity-graph.vercel.app/graph?username=YuriNicolas&theme=github-dark&hide_border=true&area=true&custom_title=Evolução%20no%20GitHub">
+<!-- ========================================================= -->
+<!-- HEADER / HERO                                             -->
+<!-- ========================================================= -->
+
+<table width="100%">
+<tr>
+
+<td width="28%" valign="top" align="center">
+
+<br>
+
+<img
+  src="https://avatars.githubusercontent.com/u/119268454?v=4"
+  width="180"
+  style="border-radius:50%;"
+  alt="Yuri Nicolas"
+>
+
+<br><br>
+
+# Yuri Nicolas
+
+### `YuriNicolas`
+
+<p>
+Estudante de Desenvolvimento de Sistemas
+<br>
+e profissional de suporte técnico.
+</p>
+
+<p>
+Construindo minha evolução através
+<br>
+de projetos reais, prática e código.
+</p>
+
+<br>
+
+<a href="https://github.com/YuriNicolas">
+<img src="https://img.shields.io/badge/EDITAR_PERFIL-0d1b2a?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<br><br>
+
+📍 **Contagem — MG**
+
+<br><br>
+
+<a href="https://github.com/YuriNicolas">
+<img src="https://img.shields.io/badge/GitHub-YuriNicolas-0d1117?style=flat-square&logo=github">
+</a>
+
+</td>
+
+<td width="72%" valign="top">
+
+<br>
+
+<table width="100%">
+<tr>
+
+<td width="75%" valign="top">
 
 # Yuri Nicolas
 
 ### Desenvolvedor de Software em formação • Python • TI
 
 <p>
-<a href="https://github.com/YuriNicolas"><img alt="GITHUB" src="https://img.shields.io/badge/GITHUB-22d3ee?style=for-the-badge&labelColor=0d1117"></a>
-<a href="https://github.com/YuriNicolas?tab=repositories"><img alt="PROJETOS" src="https://img.shields.io/badge/PROJETOS-7c3aed?style=for-the-badge&labelColor=0d1117"></a>
-<img alt="BUILDING" src="https://img.shields.io/badge/BUILDING-34d399?style=for-the-badge&labelColor=0d1117">
+
+<img src="https://img.shields.io/badge/ESTUDANTE-22d3ee?style=for-the-badge&labelColor=0d1117">
+
+<img src="https://img.shields.io/badge/PROJETOS-7c3aed?style=for-the-badge&labelColor=0d1117">
+
+<img src="https://img.shields.io/badge/EVOLUÇÃO-34d399?style=for-the-badge&labelColor=0d1117">
+
 </p>
 
-Estudante de **Desenvolvimento de Sistemas na Proz** e profissional de **suporte técnico**, construindo projetos reais enquanto faço a transição para desenvolvimento de software.
+Estudante de **Desenvolvimento de Sistemas na Proz** e profissional de
+**suporte técnico**, construindo projetos reais enquanto faço minha
+transição para desenvolvimento de software.
+
+</td>
+
+<td width="25%" valign="middle" align="center">
+
+> **Disciplina**
+>
+> hoje,
+>
+> **liberdade**
+>
+> amanhã.
+>
+> `</>`
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- GRÁFICO -->
+
+<img
+width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=YuriNicolas&bg_color=0d1117&color=22d3ee&line=7c3aed&point=34d399&area=true&hide_border=true&custom_title=Evolução%20no%20GitHub"
+alt="Evolução no GitHub"
+>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-## The mission
+# 🎯 The mission
 
-Transformar conhecimento em **experiência prática**, construindo software útil e evoluindo através de projetos reais.
+Transformar conhecimento em **experiência prática**, construindo
+software útil e evoluindo através de projetos reais.
 
-Meu objetivo é crescer de suporte técnico para desenvolvimento de software, fortalecendo principalmente **Python, desenvolvimento web, bancos de dados, APIs e inteligência artificial aplicada**.
+Meu objetivo é crescer de **suporte técnico para desenvolvimento de
+software**, fortalecendo principalmente:
 
-## What I’m building
+**Python · Desenvolvimento Web · APIs · Bancos de Dados · Inteligência Artificial**
 
-<table width="100%">
-<tbody>
-<tr>
-<td width="50%">
+---
 
-### 🔎 Job Hunter Pessoal
-
-Assistente pessoal para análise de **currículos e vagas**, desenvolvido com Python, Streamlit e IA.
-
-**Foco:** análise de perfil • matching • ranking • APIs • IA
-
-<a href="https://github.com/YuriNicolas?tab=repositories">Ver projetos →</a>
-
-</td>
-<td width="50%">
-
-### 📚 PORTIFOLIO
-
-Repositório com **projetos e atividades acadêmicas**, registrando minha evolução durante o curso de Desenvolvimento de Sistemas.
-
-**Foco:** prática • fundamentos • desenvolvimento web • evolução técnica
-
-<a href="https://github.com/YuriNicolas/PORTIFOLIO">Explorar projeto →</a>
-
-</td>
-</tr>
-</tbody>
-</table>
-
-<p align="center"><a href="https://github.com/YuriNicolas?tab=repositories"><strong>Explore repositories →</strong></a></p>
-
-## Technology arsenal
-
-<p align="center">
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-<img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img alt="Gemini API" src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=google&logoColor=white">
-</p>
+# <> What I'm building
 
 <table width="100%">
-<tbody>
 <tr>
-<td width="28%"><strong>Languages & tools</strong></td>
-<td>Python · HTML · CSS · SQL · Git · GitHub</td>
+
+<td width="50%" valign="top">
+
+## 🔎 Job Hunter Pessoal
+
+Assistente pessoal para análise de **currículos e vagas**, desenvolvido
+com Python, Streamlit e Inteligência Artificial.
+
+<br>
+
+**Foco**
+
+`ANÁLISE DE PERFIL`  
+`MATCHING`  
+`RANKING`  
+`APIs`  
+`IA`
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
+
+<img src="https://img.shields.io/badge/IA-8E75B2?style=flat-square&logo=google&logoColor=white">
+
+<br><br>
+
+<a href="https://github.com/YuriNicolas?tab=repositories">
+<strong>Ver projeto →</strong>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📁 PORTIFOLIO
+
+Repositório com **projetos e atividades acadêmicas**, registrando minha
+evolução durante o curso de Desenvolvimento de Sistemas.
+
+<br>
+
+**Foco**
+
+`PRÁTICA`  
+`FUNDAMENTOS`  
+`DESENVOLVIMENTO WEB`  
+`EVOLUÇÃO TÉCNICA`
+
+<br>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+
+<br><br>
+
+<a href="https://github.com/YuriNicolas/PORTIFOLIO">
+<strong>Explorar projeto →</strong>
+</a>
+
+</td>
+
 </tr>
-<tr>
-<td><strong>Profile focus</strong></td>
-<td>Backend · Web · APIs · Bancos de dados · IA aplicada</td>
-</tr>
-<tr>
-<td><strong>Current highlight</strong></td>
-<td>Job Hunter Pessoal</td>
-</tr>
-</tbody>
 </table>
 
-## GitHub Stats
+<br>
 
 <div align="center">
 
-<img width="620" alt="Yuri Nicolas — estatísticas do GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YuriNicolas&theme=github_dark">
+<a href="https://github.com/YuriNicolas?tab=repositories">
 
-<img width="620" alt="Yuri Nicolas — sequência de contribuições" src="https://streak-stats.demolab.com?user=YuriNicolas&theme=github-dark&hide_border=true">
+<img src="https://img.shields.io/badge/VER_TODOS_OS_REPOSITÓRIOS-0d1117?style=for-the-badge&logo=github&logoColor=22d3ee">
+
+</a>
 
 </div>
 
-## Atividade no GitHub
+---
+
+# 🛠️ Technology arsenal
 
 <div align="center">
 
-<img width="620" alt="Yuri Nicolas — histórico de contribuições" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuriNicolas&theme=github_dark">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 
 </div>
 
-## Let’s build useful software
+<br>
 
-Estou construindo minha carreira em desenvolvimento de software e tenho interesse em projetos que envolvam **programação, automação, IA e soluções web**.
+<table width="100%">
 
-<p align="center">
-<a href="https://github.com/YuriNicolas"><img alt="GITHUB" src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&labelColor=0d1117"></a>
-<a href="https://github.com/YuriNicolas?tab=repositories"><img alt="FOLLOW MY WORK" src="https://img.shields.io/badge/FOLLOW_MY_WORK-0d1117?style=for-the-badge&labelColor=0d1117"></a>
-</p>
+<tr>
+
+<td width="28%">
+<strong>Languages & ferramentas</strong>
+</td>
+
+<td>
+Python · HTML · CSS · SQL · Git · GitHub
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+<strong>Foco atual</strong>
+</td>
+
+<td>
+Backend · Web · APIs · Bancos de dados · IA aplicada
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+<strong>Destaque no perfil</strong>
+</td>
+
+<td>
+Job Hunter Pessoal · PORTIFOLIO
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
-<sub>Aprender · construir · testar · errar · melhorar</sub>
+
+<table width="100%">
+
+<tr>
+
+<td width="33%" align="center">
+
+### 📦
+
+**Repositórios**
+
+<br>
+
+<img
+src="https://img.shields.io/github/repos/YuriNicolas?style=for-the-badge&label=PUBLICOS&labelColor=0d1117"
+>
+
+</td>
+
+<td width="33%" align="center">
+
+### ⭐
+
+**Estrelas**
+
+<br>
+
+<img
+src="https://img.shields.io/github/stars/YuriNicolas?style=for-the-badge&label=TOTAL&labelColor=0d1117"
+>
+
+</td>
+
+<td width="33%" align="center">
+
+### 🔀
+
+**Contribuições**
+
+<br>
+
+<img
+src="https://img.shields.io/github/commit-activity/y/YuriNicolas?style=for-the-badge&label=ÚLTIMO%20ANO&labelColor=0d1117"
+>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<img
+width="620"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YuriNicolas&theme=github_dark"
+alt="GitHub Stats"
+>
+
+<br><br>
+
+<img
+width="620"
+src="https://streak-stats.demolab.com?user=YuriNicolas&theme=github-dark&hide_border=true"
+alt="GitHub Streak"
+>
+
+</div>
+
+---
+
+# 📅 Atividade no GitHub
+
+<div align="center">
+
+<img
+width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=YuriNicolas&bg_color=0d1117&color=22d3ee&line=7c3aed&point=34d399&area=true&hide_border=true&custom_title=Atividade%20no%20GitHub"
+alt="Atividade no GitHub"
+>
+
+</div>
+
+---
+
+# 🚀 Vamos construir algo incrível?
+
+<div align="center">
+
+### Estou construindo minha carreira em desenvolvimento de software.
+
+Programação · Automação · IA · Web · APIs
+
+<br>
+
+Tenho interesse em **projetos, oportunidades e colaborações**
+que me permitam continuar evoluindo como desenvolvedor.
+
+<br><br>
+
+<a href="https://github.com/YuriNicolas">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/YuriNicolas?tab=repositories">
+
+<img src="https://img.shields.io/badge/VER_REPOSITÓRIOS-0d1117?style=for-the-badge&logo=github&logoColor=22d3ee">
+
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:SEU_EMAIL_AQUI">
+
+<img src="https://img.shields.io/badge/ENTRAR_EM_CONTATO-22d3ee?style=for-the-badge&logo=gmail&logoColor=0d1117">
+
+</a>
+
+<br><br>
+
+<sub>
+
+Aprender · construir · testar · errar · melhorar
+
+</sub>
+
 </div>
 
 ---
 
 <div align="center">
-<sub>Built with curiosity. Improved through practice.</sub>
+
+<sub>
+
+<strong>Built with curiosity. Improved through practice.</strong>
+
+</sub>
+
 </div>
