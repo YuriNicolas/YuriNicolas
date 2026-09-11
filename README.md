@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="620" alt="Yuri Nicolas — desenvolvimento de software em formação" src="https://www.gitskins.com/api/section/portrait?username=yurinicolas&theme=github-dark&style=terminal&color=1&motion=cap-tip&v=signature-cap-tip-1&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F119268454%3Fv%3D4">
+<img width="620" alt="Yuri Nicolas — perfil e atividade no GitHub" src="https://www.gitskins.com/api/section/hero?username=YuriNicolas&theme=github-dark&style=aura">
 
 # Yuri Nicolas
 
@@ -92,9 +92,9 @@ Repositório com **projetos e atividades acadêmicas**, registrando minha evolu�
 
 <div align="center">
 
-<img width="620" alt="Yuri Nicolas — atividade no GitHub" src="https://www.gitskins.com/api/readme-reference/contribution-calendar?username=yurinicolas&theme=github-dark&v=signature-cap-tip-summary-1">
+<img width="620" alt="Yuri Nicolas — estatísticas do GitHub" src="https://www.gitskins.com/api/section/stats?username=YuriNicolas&theme=github-dark&style=aura">
 
-<img width="620" alt="Yuri Nicolas — histórico de contribuições" src="https://www.gitskins.com/api/readme-reference/character-calendar?username=yurinicolas&theme=github-dark&motion=subtle&v=signature-cap-tip-calendar-1">
+<img width="620" alt="Yuri Nicolas — atividade de contribuições" src="https://www.gitskins.com/api/section/heatmap?username=YuriNicolas&theme=github-dark&style=aura">
 
 </div>
 
