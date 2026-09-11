@@ -38,15 +38,15 @@ Estudante de **Desenvolvimento de Sistemas na Proz** e profissional de **suporte
 
 > **Disciplina hoje, liberdade amanhã.** `< />`
 
+<br>
+
+**Python · Web · APIs · Banco de Dados · IA**
+
 </td>
 </tr>
 </table>
 
 </div>
-
----
-
-![Evolução no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=YuriNicolas&theme=github-dark&hide_border=true&area=true&custom_title=Evolucao%20no%20GitHub)
 
 ---
 
