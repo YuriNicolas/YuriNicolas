@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="620" alt="Yuri Nicolas — perfil e atividade no GitHub" src="https://www.gitskins.com/api/section/hero?username=YuriNicolas&theme=github-dark&style=aura">
+<img width="620" alt="Yuri Nicolas — perfil e atividade no GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuriNicolas&theme=github_dark">
 
 # Yuri Nicolas
 
@@ -92,9 +92,9 @@ Repositório com **projetos e atividades acadêmicas**, registrando minha evolu�
 
 <div align="center">
 
-<img width="620" alt="Yuri Nicolas — estatísticas do GitHub" src="https://www.gitskins.com/api/section/stats?username=YuriNicolas&theme=github-dark&style=aura">
+<img width="620" alt="Yuri Nicolas — estatísticas do GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YuriNicolas&theme=github_dark">
 
-<img width="620" alt="Yuri Nicolas — atividade de contribuições" src="https://www.gitskins.com/api/section/heatmap?username=YuriNicolas&theme=github-dark&style=aura">
+<img width="620" alt="Yuri Nicolas — sequência de contribuições" src="https://streak-stats.demolab.com?user=YuriNicolas&theme=github-dark&hide_border=true">
 
 </div>
 
