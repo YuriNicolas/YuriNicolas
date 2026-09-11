@@ -11,12 +11,7 @@
 
 <br>
 
-<img
-  src="https://avatars.githubusercontent.com/u/119268454?v=4"
-  width="180"
-  style="border-radius:50%;"
-  alt="Yuri Nicolas"
->
+
 
 <br><br>
 
