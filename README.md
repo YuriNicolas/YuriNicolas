@@ -6,49 +6,6 @@
 
 <table width="100%">
 <tr>
-
-<td width="28%" valign="top" align="center">
-
-<br>
-
-
-
-<br><br>
-
-# Yuri Nicolas
-
-### `YuriNicolas`
-
-<p>
-Estudante de Desenvolvimento de Sistemas
-<br>
-e profissional de suporte técnico.
-</p>
-
-<p>
-Construindo minha evolução através
-<br>
-de projetos reais, prática e código.
-</p>
-
-<br>
-
-<a href="https://github.com/YuriNicolas">
-<img src="https://img.shields.io/badge/EDITAR_PERFIL-0d1b2a?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<br><br>
-
-📍 **Contagem — MG**
-
-<br><br>
-
-<a href="https://github.com/YuriNicolas">
-<img src="https://img.shields.io/badge/GitHub-YuriNicolas-0d1117?style=flat-square&logo=github">
-</a>
-
-</td>
-
 <td width="72%" valign="top">
 
 <br>
@@ -92,22 +49,6 @@ transição para desenvolvimento de software.
 
 </td>
 
-</tr>
-</table>
-
-<br>
-
-<!-- GRÁFICO -->
-
-<img
-width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=YuriNicolas&bg_color=0d1117&color=22d3ee&line=7c3aed&point=34d399&area=true&hide_border=true&custom_title=Evolução%20no%20GitHub"
-alt="Evolução no GitHub"
->
-
-</td>
-
-</tr>
 </table>
 
 </div>
