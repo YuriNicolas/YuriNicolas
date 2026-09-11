@@ -1,213 +1,123 @@
-<div align="center">
-
-<table width="100%">
-<tr>
-<td width="28%" valign="top" align="center">
-
-<img src="https://avatars.githubusercontent.com/u/119268454?v=4" width="170" alt="Yuri Nicolas">
-
-### Yuri Nicolas
-
-`YuriNicolas`
-
-Estudante de Desenvolvimento de Sistemas  
-e profissional de suporte técnico.
-
-Construindo minha evolução através de  
-projetos reais, prática e código.
-
-<a href="https://github.com/YuriNicolas"><img src="https://img.shields.io/badge/GITHUB-0d1b2a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-
-📍 **Contagem — MG**
-
-<a href="https://github.com/YuriNicolas"><img src="https://img.shields.io/badge/YuriNicolas-0d1117?style=flat-square&logo=github&logoColor=22d3ee" alt="YuriNicolas"></a>
-
-</td>
-
-<td width="72%" valign="top">
-
 # Yuri Nicolas
 
-### Desenvolvedor de Software em formação • Python • TI
+**Técnico de Informática | Estudante de Desenvolvimento de Sistemas**
 
-<img src="https://img.shields.io/badge/ESTUDANTE-22d3ee?style=for-the-badge&labelColor=0d1117" alt="Estudante">
-<img src="https://img.shields.io/badge/PROJETOS-7c3aed?style=for-the-badge&labelColor=0d1117" alt="Projetos">
-<img src="https://img.shields.io/badge/EVOLUÇÃO-34d399?style=for-the-badge&labelColor=0d1117" alt="Evolução">
+Profissional de suporte técnico e estudante de Desenvolvimento de Sistemas, atualmente direcionando minha carreira para desenvolvimento de software.
 
-Estudante de **Desenvolvimento de Sistemas na Proz** e profissional de **suporte técnico**, construindo projetos reais enquanto faço minha transição para desenvolvimento de software.
+Tenho experiência com suporte técnico, atendimento a usuários, manutenção e resolução de problemas em ambientes de TI. No desenvolvimento, venho construindo projetos práticos para transformar conhecimento em experiência real.
 
-> **Disciplina hoje, liberdade amanhã.** `< />`
+Meu foco atual está em **Python, backend, APIs, bancos de dados e inteligência artificial aplicada**.
 
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-nicolas-rodrigues-dumont-76984425b/)
+[![GitHub](https://img.shields.io/badge/GitHub-YuriNicolas-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YuriNicolas)
 
-**Python · Web · APIs · Banco de Dados · IA**
+---
 
-</td>
-</tr>
-</table>
+## 🎯 Objetivo profissional
+
+Meu objetivo é fazer a transição de **suporte técnico para desenvolvimento de software**, buscando uma oportunidade de estágio onde eu possa aplicar meus conhecimentos, aprender com uma equipe de desenvolvimento e evoluir profissionalmente.
+
+---
+
+## 🚀 Projetos em destaque
+
+### 🔎 Job Hunter Pessoal
+
+Aplicação desenvolvida em Python para auxiliar na análise de currículos e vagas, utilizando inteligência artificial para interpretar informações de perfil, comparar oportunidades e apoiar o processo de candidatura.
+
+**Tecnologias:** Python · Streamlit · APIs · IA
+
+> Projeto em evolução contínua, desenvolvido para resolver um problema real do meu próprio processo de busca profissional.
+
+[Ver repositório →](https://github.com/YuriNicolas/job-hunter)
+
+---
+
+### 💰 Sistema Financeiro
+
+Aplicação web para gerenciamento de receitas e despesas, desenvolvida com foco em fundamentos de backend, banco de dados e operações CRUD.
+
+**Tecnologias:** Python · Flask · SQLite · HTML · CSS
+
+---
+
+### 📚 Portfólio acadêmico
+
+Repositório com projetos e atividades desenvolvidos durante minha formação em Desenvolvimento de Sistemas, registrando minha evolução técnica e prática.
+
+**Tecnologias:** HTML · CSS · JavaScript · fundamentos de desenvolvimento web
+
+[Explorar repositório →](https://github.com/YuriNicolas/PORTIFOLIO)
+
+---
+
+## 🛠️ Tecnologias
+
+### Conhecimentos
+
+**Python · SQL · HTML · CSS · Git · GitHub**
+
+### Em desenvolvimento
+
+**Flask · APIs REST · SQLite · Streamlit**
+
+### Explorando
+
+**Inteligência Artificial aplicada · integração com APIs de IA · arquitetura de aplicações**
+
+---
+
+## 📖 Formação
+
+**Técnico em Desenvolvimento de Sistemas — Proz Educação**
+
+Formação voltada para desenvolvimento de software, lógica de programação, desenvolvimento web e fundamentos de sistemas.
+
+---
+
+## 💼 Experiência
+
+**Técnico de Informática**
+
+Atuação com suporte técnico, atendimento a usuários, resolução de problemas, manutenção e suporte a sistemas.
+
+---
+
+## 📌 Atualmente estudando
+
+- Desenvolvimento backend
+- APIs REST
+- Banco de dados
+- Arquitetura de aplicações
+- Integração com inteligência artificial
+- Boas práticas de Git e GitHub
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YuriNicolas&theme=github_dark)
+
+![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuriNicolas&theme=github_dark)
 
 </div>
 
 ---
 
-# 🎯 The mission
+## 🤝 Contato
 
-Transformar conhecimento em **experiência prática**, construindo software útil e evoluindo através de projetos reais.
+Estou interessado em **estágios, oportunidades em desenvolvimento de software, projetos e colaborações** que contribuam para minha evolução profissional.
 
-Meu objetivo é crescer de **suporte técnico para desenvolvimento de software**, fortalecendo principalmente:
+**LinkedIn:** [yuri-nicolas-rodrigues-dumont-76984425b](https://www.linkedin.com/in/yuri-nicolas-rodrigues-dumont-76984425b/)
 
-**Python · Desenvolvimento Web · APIs · Bancos de Dados · Inteligência Artificial**
-
----
-
-# <> What I'm building
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-## 🔎 Job Hunter Pessoal
-
-Assistente pessoal para análise de **currículos e vagas**, desenvolvido com Python, Streamlit e Inteligência Artificial.
-
-**Foco**
-
-`ANÁLISE DE PERFIL` `MATCHING` `RANKING` `APIs` `IA`
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
-<img src="https://img.shields.io/badge/IA-8E75B2?style=flat-square&logo=google&logoColor=white" alt="IA">
-
-**[Ver projeto →](https://github.com/YuriNicolas?tab=repositories)**
-
-</td>
-
-<td width="50%" valign="top">
-
-## 📁 PORTIFOLIO
-
-Repositório com **projetos e atividades acadêmicas**, registrando minha evolução durante o curso de Desenvolvimento de Sistemas.
-
-**Foco**
-
-`PRÁTICA` `FUNDAMENTOS` `DESENVOLVIMENTO WEB` `EVOLUÇÃO TÉCNICA`
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-
-**[Explorar projeto →](https://github.com/YuriNicolas/PORTIFOLIO)**
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-**[🔗 VER TODOS OS REPOSITÓRIOS](https://github.com/YuriNicolas?tab=repositories)**
-
-</div>
-
----
-
-# 🛠️ Technology arsenal
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-
-</div>
-
-<table width="100%">
-<tr><td width="28%"><strong>Linguagens & ferramentas</strong></td><td>Python · HTML · CSS · SQL · Git · GitHub</td></tr>
-<tr><td><strong>Foco atual</strong></td><td>Backend · Web · APIs · Bancos de dados · IA aplicada</td></tr>
-<tr><td><strong>Destaque no perfil</strong></td><td>Job Hunter Pessoal · PORTIFOLIO</td></tr>
-</table>
-
----
-
-# 📊 GitHub Stats
-
-<table width="100%">
-<tr>
-<td width="33%" align="center">
-
-### 📦
-**Repositórios públicos**
-
-![Repositórios públicos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FYuriNicolas&query=%24.public_repos&label=TOTAL&style=for-the-badge&labelColor=0d1117&color=22d3ee)
-
-</td>
-<td width="33%" align="center">
-
-### ⭐
-**Estrelas**
-
-![Estrelas](https://img.shields.io/github/stars/YuriNicolas?style=for-the-badge&label=TOTAL&labelColor=0d1117&color=7c3aed)
-
-</td>
-<td width="33%" align="center">
-
-### 📈
-**Atividade**
-
-[![Atividade](https://img.shields.io/badge/VER_ATIVIDADE-0d1117?style=for-the-badge&logo=github&logoColor=34d399)](https://github.com/YuriNicolas)
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-![Estatísticas do GitHub](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YuriNicolas&theme=github_dark)
-
-![Sequência de contribuições no GitHub](https://streak-stats.demolab.com?user=YuriNicolas&theme=github-dark&hide_border=true)
-
-</div>
-
----
-
-# 📅 Atividade no GitHub
-
-<div align="center">
-
-[![Histórico de contribuições no GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuriNicolas&theme=github_dark)](https://github.com/YuriNicolas)
-
-</div>
-
----
-
-# 🚀 Vamos construir algo incrível?
-
-<div align="center">
-
-### Estou construindo minha carreira em desenvolvimento de software.
-
-**Programação · Automação · IA · Web · APIs**
-
-Tenho interesse em **projetos, oportunidades e colaborações** que me permitam continuar evoluindo como desenvolvedor.
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YuriNicolas)
-
-[![Ver repositórios](https://img.shields.io/badge/VER_REPOSITÓRIOS-0d1117?style=for-the-badge&logo=github&logoColor=22d3ee)](https://github.com/YuriNicolas?tab=repositories)
-
-[![Entrar em contato](https://img.shields.io/badge/ENTRAR_EM_CONTATO-22d3ee?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/YuriNicolas)
-
-**Aprender · construir · testar · errar · melhorar**
-
-</div>
+**GitHub:** [github.com/YuriNicolas](https://github.com/YuriNicolas)
 
 ---
 
 <div align="center">
 
-<sub><strong>Built with curiosity. Improved through practice.</strong></sub>
+<sub><strong>Aprender · construir · testar · melhorar</strong></sub>
 
 </div>
