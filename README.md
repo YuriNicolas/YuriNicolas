@@ -74,19 +74,6 @@ Atuação com suporte técnico, atendimento a usuários, resolução de problema
 - Integração com inteligência artificial
 - Boas práticas de Git e GitHub
 
----
-
-## 📊 GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YuriNicolas&theme=github_dark)
-
-![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuriNicolas&theme=github_dark)
-
-</div>
-
----
 
 ## 🤝 Contato
 
