@@ -41,7 +41,7 @@ Aplicação desenvolvida em Python para auxiliar na análise de currículos e va
 
 ### Em desenvolvimento
 
-**Flask · APIs REST · SQLite · Streamlit**
+**Flask · APIs REST · SQLite · Streamlit · C# · .NET**
 
 ### Explorando
 
