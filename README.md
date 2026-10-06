@@ -8,7 +8,7 @@ Tenho experiência com suporte técnico, atendimento a usuários, manutenção e
 
 Meu foco atual está em **Python, backend, APIs, bancos de dados e inteligência artificial aplicada**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-nicolas-rodrigues-dumont-76984425b/)
+[![LinkedIn](www.linkedin.com/in/yuri-nicolas-rodrigues-dumont-76984425b)
 [![GitHub](https://img.shields.io/badge/GitHub-YuriNicolas-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YuriNicolas)
 
 ---
